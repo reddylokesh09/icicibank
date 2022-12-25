@@ -1,1 +1,2 @@
-this file consists of python programmes
+this file consists of python programme
+this is the python project
